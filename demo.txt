@@ -1,2 +1,3 @@
 Hello guys ..
-we need to pull this commit to local repo..
+weeed to pull this commit to local repo..
+we are trying to push this 2nd commit from local repo
